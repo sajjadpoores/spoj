@@ -1,3 +1,5 @@
+////http://www.spoj.com/problems/FASHION/
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
